@@ -65,9 +65,9 @@
   보고서 파일 제출 기능 개발, UI 수정 및 데이터 연결  
   *Spring Framework, MyBatis, Crownix Report*
 
-- **2023년 소규모취약시설 안전관리 시스템 기능개선 사업**
-  DB 마이그레이션(Oracle -≫ MariaDB), 로그인 기능 기능개선
-  *Oracle, MariaDB, Spring Framework, Mybatis, jQurey, CentOS*
+- **2023년 소규모취약시설 안전관리 시스템 기능개선 사업**  
+  DB 마이그레이션 (Oracle → MariaDB), 로그인 기능 개선  
+  *Oracle, MariaDB, Spring Framework, MyBatis, jQuery, CentOS*
   
 - **2023~2024 시스템 유지관리 사업 (약 4500건 처리)**  
   고객 요청 사항 대응, DB 마이그레이션 (Oracle → MariaDB), 성능 개선 SQL 튜닝  
