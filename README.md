@@ -16,25 +16,6 @@
 
 ## 🛠 Skill Set
 **Backend**
-- Java / Spring Framework / Spring Boot
-- MyBatis / JPA / JSP / JSTL / Thymeleaf
-- NestJS / Express
-
-**Database**
-- MariaDB / Oracle / SQLite / PL/SQL
-
-**Frontend**
-- React.js / Next.js / JQuery
-- Tailwind CSS / Bootstrap
-
-**DevOps & Tools**
-- Jenkins / VMware / GitHub Actions
-- Linux (Rocky Linux, CentOS)
-- SVN / DBeaver / Eclipse / Crownix Report
-
-## 🛠 Tech Stack (Visual)
-
-**Backend**
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
