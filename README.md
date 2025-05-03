@@ -1,16 +1,7 @@
-# 👋 안녕하세요, 윤승입니다!
+# **능동적으로 일하고, 커뮤니케이션을 중시하며, 변화를 피하지 말자**
 
 문제에 대해 지속적인 관심과 고민이 있어야 한다고 생각합니다.  
 부족한 실력이지만 도움이 되었으면 좋겠습니다.
-
----
-
-## 🧑‍💻 About Me
-- **백엔드 중심 풀스택 개발자**로, Java 기반 SI 프로젝트에 약 3년간 참여했습니다.
-- 반복되는 기능은 **공통화하고 재사용성 높은 구조로 개선**하는 것을 중요하게 여깁니다.
-- 최근에는 **Next.js / NestJS / TypeScript**를 활용한 모던 웹 기술에 도전하고 있습니다.
-- 정부 발주 프로젝트 경험 다수, **요구사항 분석부터 DB 설계, 화면 구현까지** 전 과정 수행 경험 보유.
-- 4500건 이상 고객 요청 처리 경험 → **문제 해결력 + 커뮤니케이션 역량 강화**
 
 ---
 
@@ -53,26 +44,6 @@
   <img src="https://img.shields.io/badge/DBeaver-372923?style=flat&logo=datagrip&logoColor=white"/>
 </p>
 
-
----
-
-## 📌 Career Highlights
-- **2024 바닥충격음 임시홈페이지 구축 사업**  
-  고객 요구사항 분석, DB 설계, 공통 기능 (파일, 모달, 페이징, 메뉴) 및 로그인 구현  
-  *Spring Boot, MariaDB, MyBatis, JSP, jQuery, Rocky Linux*
-
-- **2024 모바일 보고서 시스템 기능 개선**  
-  보고서 파일 제출 기능 개발, UI 수정 및 데이터 연결  
-  *Spring Framework, MyBatis, Crownix Report*
-
-- **2023년 소규모취약시설 안전관리 시스템 기능개선 사업**  
-  DB 마이그레이션 (Oracle → MariaDB), 로그인 기능 개선  
-  *Oracle, MariaDB, Spring Framework, MyBatis, jQuery, CentOS*
-  
-- **2023~2024 시스템 유지관리 사업 (약 4500건 처리)**  
-  고객 요청 사항 대응, DB 마이그레이션 (Oracle → MariaDB), 성능 개선 SQL 튜닝  
-  *Oracle, MariaDB, Spring Framework, jQuery*
-
 ---
 
 ## 🏅 Certificates
@@ -83,9 +54,7 @@
 ---
 
 ## 🌍 Language
-- 🇯🇵 일본어 일상 회화 가능 (JLPT N3 준비 중)
-- 🇰🇷 한국어 (모국어)
-
+- KR / JP
 ---
 
 ## 📫 Contact
@@ -93,6 +62,4 @@
 - 📧 Email: rainyrooftopcoder@gmail.com
 
 ---
-
-> **능동적으로 일하고, 커뮤니케이션을 중시하며, 기술 변화에 열린 개발자입니다.**
 
