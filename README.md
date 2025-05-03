@@ -49,7 +49,7 @@
 ## 🌍 Language
 - KR / JP
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RainyRooftopCoder&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RainyRooftopCoder&layout=donutchart)
 ---
 
 ## 📫 Contact
