@@ -48,7 +48,9 @@
 
 ## 🌍 Language
 - KR / JP
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  <p>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RainyRooftopCoder&layout=compact)
+  </p>
 ---
 
 ## 📫 Contact
