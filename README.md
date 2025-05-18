@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=postgreSQL&logoColor=white"/>
 </p>
 
 **Frontend**
